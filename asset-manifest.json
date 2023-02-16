@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/algobulls-todo/static/css/main.16c6e612.css",
+    "main.js": "/algobulls-todo/static/js/main.be71ae4c.js",
+    "static/js/787.28cb0dcd.chunk.js": "/algobulls-todo/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/algobulls-todo/index.html",
+    "main.16c6e612.css.map": "/algobulls-todo/static/css/main.16c6e612.css.map",
+    "main.be71ae4c.js.map": "/algobulls-todo/static/js/main.be71ae4c.js.map",
+    "787.28cb0dcd.chunk.js.map": "/algobulls-todo/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16c6e612.css",
+    "static/js/main.be71ae4c.js"
+  ]
+}
